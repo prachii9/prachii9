@@ -16,9 +16,6 @@ I'm a 2nd year Computer Science student @ Toronto Metropolitan University workin
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-### GitHub Stats 📈:
-[![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prachii9&hide=prs&theme=tokyonight)](https://github.com/prachii9/github-readme-stats)
-
 ---
 #### Profile Visits
 ![Visitors](https://komarev.com/ghpvc/?username=prachii9&label=Visitors&style=plastic)
